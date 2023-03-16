@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Oğuz
+## Hi there 👋, I'm Oğuz
 #### Machine and Deep Learning
 I am a computer engineering student in Turkey. I especially work in the field of machine and deep learning, but I also like to develop various projects using Java and similar languages.
 
