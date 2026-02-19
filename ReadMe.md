@@ -1,11 +1,70 @@
-## Hi there 👋, I'm Oğuz
-#### Machine and Deep Learning
-I am a computer engineering student in Turkey. I especially work in the field of machine and deep learning, but I also like to develop various projects using Java and similar languages.
+# Hi, I'm Sozen Oguz 👋
 
-- 🌱 I’m currently learning Generative Adversarial Networks. 
+Aspiring **AI Engineer** based in Japan.  
+Computer Engineering graduate (2023) with a strong focus on **Machine Learning, Deep Learning, and Backend systems**.
 
+Currently seeking an **AI Engineer / Machine Learning Engineer** position in Japan.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/oguzsozen)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://tr.linkedin.com/in/oğuz-sözen-23500620a/)  
+- JLPT N2  
+- Based in Tokyo  
+- Open to relocation within Japan  
+- Visa: Student → Work visa change  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzsozen)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+## 🔬 Areas of Interest
+- Computer Vision  
+- NLP  
+- Deep Learning  
+- LLM fundamentals  
+- Applied AI systems  
+- AI + Backend integration  
+
+---
+
+## 🧠 Technical Skills
+
+**Languages**  
+Python (main)  
+Java  
+Golang  
+C#  
+TypeScript  
+
+**ML / AI**  
+TensorFlow  
+PyTorch  
+Keras  
+Scikit-learn  
+
+**Data**  
+NumPy  
+Pandas  
+Matplotlib  
+Plotly  
+
+**Backend**  
+Flask  
+Golang Fiber  
+REST API basics  
+
+**Database**  
+MySQL  
+PostgreSQL  
+MongoDB  
+
+**Other**  
+Docker (basic)  
+Git (daily use)  
+
+---
+
+## 🎯 Career Goal
+To grow as an **AI Engineer** in Japan by working on real-world machine learning systems and production-level AI applications.  
+Interested in roles involving model implementation, experimentation, and integration into services or backend systems.
+
+---
+
+## 📫 Contact
+Email: oguzsozen.ceng@hotmail.com  
+GitHub: https://github.com/oguzsozen
