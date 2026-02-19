@@ -66,5 +66,5 @@ Interested in roles involving model implementation, experimentation, and integra
 ---
 
 ## 📫 Contact
-Email: oguzsozen.ceng@hotmail.com  
-GitHub: https://github.com/oguzsozen
+Email: oguzsozen.ceng@hotmail.com
+Website: oguzsozen-ceng.com
